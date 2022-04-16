@@ -16,8 +16,8 @@ public class PesquisaTvAmazonSteps {
 
         loginPage.buscaPagina();
         loginPage.botaoEntrar();
-        loginPage.getEmail("gugags2@hotmail.com");
-        loginPage.getSenha("Arthur@20428929");
+        loginPage.getEmail("Insira seu Email Aqui");
+        loginPage.getSenha("Insira sua Senha aqui");
         loginPage.verificacaoLogado();
 
     }
