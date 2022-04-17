@@ -6,6 +6,8 @@ import io.cucumber.java.en.When;
 
 public class PesquisaTvCasasBahiaSteps {
 
+
+
     @Given("que usuario esteja logado")
     public void que_usuario_esteja_logado(){
 
